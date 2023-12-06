@@ -27,7 +27,7 @@ duckdb-engine==0.6.8
 executing==1.2.0
 fastavro==1.7.1
 fastjsonschema==2.16.2
-faust-streaming
+#faust-streaming
 faust-avro-serializer
 flask==2.1.2
 fonttools==4.38.0
